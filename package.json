@@ -1,0 +1,27 @@
+{
+  "name": "rgbx2hex",
+  "version": "1.0.0",
+  "description": "rgba2hex,rgb2hex",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrydengchao/rgbx2hex.git"
+  },
+  "keywords": [
+    "rgbx2hex",
+    "rgba2hex",
+    "rgb2hex"
+  ],
+  "author": "dengchao2056@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrydengchao/rgbx2hex/issues"
+  },
+  "homepage": "https://github.com/harrydengchao/rgbx2hex#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
